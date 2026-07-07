@@ -4,7 +4,7 @@ AGREEMENT TO OUR LEGAL TERMS We are Robert Maxwell (“Company,” “we,” “
 
 We operate the mobile application Proven (the “App”), as well as any other related products and services that refer or link to these legal terms (the “Legal Terms”) (collectively, the “Services”).
 
-You can contact us by email at portalappcontact@gmail.com
+You can contact us by email at provenappcontact@gmail.com
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”), and Robert Maxwell, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 

@@ -158,4 +158,4 @@ CONVERSATION DATA COLLECTION AND USAGE In our ongoing efforts to improve Stella 
 
 By using this service, you acknowledge and agree that the Soulmate Sketch is provided “as is” and “as available,” without any warranties of any kind, either express or implied. You further acknowledge and agree that we are not responsible for any actions or decisions you make based on the Soulmate Sketch, nor for any perceived dissatisfaction if the sketch does not align with your expectations or if you believe it to be untrue or unrealistic. We disclaim all liability for any direct, indirect, incidental, consequential, or special damages arising out of or in any way connected with your use of the Soulmate Sketch service
 
-CONTACT US In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at: Perl Productions LLC United States portalappcontact@gmail.com
+CONTACT US In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at: Robert Maxwell United States provenappcontact@gmail.com
